@@ -36,7 +36,7 @@ Mystify's playlist "recipes" allow you to filter based on a song's sound (e.g. g
 &nbsp;
 
 ### Development
-This project was largely born from my desire to learn [Flutter](https://flutter.dev/), and along the way, it's also taught me a ton about [Dart](https://dart.dev/), [Firebase](https://firebase.google.com/), mobile app development, handling async [streams](https://dart.dev/libraries/async/using-streams) and experimenting with countless state management solutions. It's been really fun and rewarding to work on, and although it's not finished yet, I wanted to share what I've built so far. This README includes a video demo, an overview of the system/database design and some code snippets.
+This project was largely born from my desire to learn [Flutter](https://flutter.dev/). Along the way, it's taught me a ton about [Dart](https://dart.dev/), [Firebase](https://firebase.google.com/), mobile app development, handling async [streams](https://dart.dev/libraries/async/using-streams) and experimenting with countless state management solutions. It's been really fun and rewarding to work on, and although it's not finished yet, I wanted to share what I've built so far. This README includes a video demo, an overview of the system/database design and some code snippets.
 
 <br>
 
